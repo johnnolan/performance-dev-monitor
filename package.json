@@ -1,0 +1,19 @@
+{
+  "name": "performance-dev-monitor",
+  "version": "1.0.0",
+  "description": "Monitor and generate performance stats over time in the background while you work.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "headless",
+    "chrome",
+    "puppeteer"
+  ],
+  "author": "John Nolan",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^1.2.0"
+  }
+}
